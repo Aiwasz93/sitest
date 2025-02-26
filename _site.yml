@@ -2,8 +2,8 @@ name: "My new website"
 output_dir: 'docs'
 output:
   html_document:
-    theme: darkly
-    highlight: zenburn
+#    theme: darkly
+#    highlight: zenburn
     toc: true
     toc_depth: 2
     toc_float:
