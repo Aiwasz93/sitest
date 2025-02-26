@@ -1,0 +1,10 @@
+---
+title: "Kontakt"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+# Kontakt
+
+https://www.phil.uni-wuerzburg.de/indologie/mitarbeiter/hetzel/

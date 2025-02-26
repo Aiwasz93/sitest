@@ -1,0 +1,21 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+# CV
+
+- Geburt
+- Schule
+- FSJ
+- Studium
+- Gärtner
+- Doktorand
+
+# Fächer
+
+- Vergleichende Indogermanische Sprachwissenschaft
+- Altorientalistik
+- Vedistik
